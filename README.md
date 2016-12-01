@@ -1,2 +1,5 @@
 # hello-world
-Just another repository
+
+Hi Guys,
+
+I am also one of the boring people you meet around
